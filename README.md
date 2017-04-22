@@ -1,6 +1,6 @@
-# Heroku Django Starter Template
+# herokudjango
 
-An utterly fantastic project starter template for Django 1.10.
+A simple django app created using heroku project starter template for Django 1.10.
 
 ## Features
 
