@@ -1,7 +1,7 @@
 # herokudjango
 
 A simple django app created using heroku project starter template for Django 1.10.
-
+[app-url](https://thawing-bastion-11941.herokuapp.com/app/)
 ## Features
 
 - Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
